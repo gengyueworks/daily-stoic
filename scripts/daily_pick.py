@@ -60,9 +60,15 @@ def render_card(quote, today):
     date_cn = f"{today[:4]} 年 {int(today[5:7])} 月 {int(today[8:10])} 日"
     card = f"""### 📜 {date_cn}
 
-> 「{quote['original']}」
+> "{quote['original']}"
 >
-> —— {quote['author']}，{quote['source']}
+> — {quote['author_en']}, {quote['source_en']}
+
+**Interpretation**：{quote.get('interpretation_en', quote['interpretation'])}
+
+**Today's Action**：{quote.get('action_en', quote['action'])}
+
+---
 
 **白话**：{quote['translation']}
 
