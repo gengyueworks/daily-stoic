@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 3 日
+### 📜 2026 年 8 月 4 日
 
-> "I never return home with the same moral character I departed; something or other is unsettled which I had before settled, something or other I have either relaxed or destroyed in the midst of the crowd."
+> "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly."
 >
-> — Seneca, Letters to Lucilius, Letter VII
+> — Marcus Aurelius, Meditations, Book II
 
-**Interpretation**：He's not telling us to become hermits. The point is awareness: notice what shapes you when you're around people. Crowds have a hypnotic pull, and collective emotion overrides individual judgment. You walk into a frenzy, a fight, a trending topic, and walk out no longer yourself. The Stoic fix is to guard your autonomy as a rational being: sync up when it makes sense, but keep your own anchor.
+**Interpretation**：When you wake up, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. This is not pessimism, it's pre-payment. Marcus ran an empire full of difficult people and vaccinated himself against surprise, because anger comes from 'I didn't expect this.' Expect less of others and everything else is a bonus.
 
-**Today's Action**：Today, watch one 'follow-the-crowd' moment: when others' emotions rise, pause three seconds and ask: is this the reaction I want?
+**Today's Action**：Today, when someone makes things hard, say 'expected' to yourself first, then handle it.
 
 ---
 
-**白话**：我每次从人群回来，都不再是出发时的那个我。那些原本已经安顿好的心念，总会在人群里被动摇、被消解、被摧毁。
+**白话**：早晨醒来时对自己说：今天我要打交道的人，会有多管闲事的、不知感恩的、傲慢的、不诚实的、嫉妒的、脾气差的。
 
-**解读**：他说「避开人群」，是要我们警惕自己正在被什么影响，不是让我们从此当隐士、不见人。群体有催眠的力量，集体的情绪会接管个人的判断。你走进一场狂欢、一次争吵、一个热搜，出来时你已经不是自己。斯多葛的解药，是守住理性人的自主权：该同频时同频，心里始终有一个自己的锚点。
+**解读**：每天早上出门前，先背一遍这段话：今天遇到的人，会有多管闲事的、不知感恩的、傲慢的、不诚实的、嫉妒的、脾气差的。听起来消极，其实是在给自己打预防针。马可管整个罗马帝国，天天面对一堆烂人烂事，他把预期调低，事情来了就不炸毛。愤怒都来自「我以为不会这样」，那不如先把「会这样」想一遍。预期越低，越容易觉得赚了。
 
-**今日行动**：今天留意一件「随大流」的小事：别人的情绪起来时，先停三秒，问自己「这是我想要的反应吗」。
+**今日行动**：今天遇到不配合的人，先在心里说「预料之内」，再处理事情。
 
 <!-- DAILY-STOIC:END -->
 
