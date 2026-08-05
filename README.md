@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 4 日
+### 📜 2026 年 8 月 5 日
 
-> "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly."
+> "Confine yourself to the present."
 >
-> — Marcus Aurelius, Meditations, Book II
+> — Marcus Aurelius, Meditations, Book IV
 
-**Interpretation**：When you wake up, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. This is not pessimism, it's pre-payment. Marcus ran an empire full of difficult people and vaccinated himself against surprise, because anger comes from 'I didn't expect this.' Expect less of others and everything else is a bonus.
+**Interpretation**：Anxious people live in the future, regretful people live in the past, and the only moment you actually own is this one. The past is gone, the future hasn't arrived. Do today's work today, and let tomorrow's troubles wait. That is not escapism, it's the whole secret of focus.
 
-**Today's Action**：Today, when someone makes things hard, say 'expected' to yourself first, then handle it.
+**Today's Action**：Something you've been putting off? Do five minutes. Just five.
 
 ---
 
-**白话**：早晨醒来时对自己说：今天我要打交道的人，会有多管闲事的、不知感恩的、傲慢的、不诚实的、嫉妒的、脾气差的。
+**白话**：把自己圈定在当下。
 
-**解读**：每天早上出门前，先背一遍这段话：今天遇到的人，会有多管闲事的、不知感恩的、傲慢的、不诚实的、嫉妒的、脾气差的。听起来消极，其实是在给自己打预防针。马可管整个罗马帝国，天天面对一堆烂人烂事，他把预期调低，事情来了就不炸毛。愤怒都来自「我以为不会这样」，那不如先把「会这样」想一遍。预期越低，越容易觉得赚了。
+**解读**：焦虑的人活在明天，悔恨的人活在过去，能攥在手里的只有今天这一秒。过去没了，未来没来。今天该做的做掉，明天的烦恼明天再说。这话听着像逃避，其实是专注力唯一的秘密。我拖延的时候，就把任务切成五分钟的碎片，先动起来，动起来焦虑就散了。
 
-**今日行动**：今天遇到不配合的人，先在心里说「预料之内」，再处理事情。
+**今日行动**：今天有一件一直拖着的事？只做五分钟，就五分钟。
 
 <!-- DAILY-STOIC:END -->
 
