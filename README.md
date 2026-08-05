@@ -112,9 +112,19 @@
 ## 🚀 技术细节
 
 - 轮换引擎：`scripts/daily_pick.py`（本地可跑 `--dry-run` 预览）
-- 自动化：`.github/workflows/daily.yml`，每天 UTC 0:00（北京时间 8:00）运行
+- 自动化：`.github/workflows/daily.yml`，每天 UTC 0:00 和 6:00（北京时间 8:00 和 14:00）各触发一次
 - 发布规则：已批阅优先 → 草稿兜底 → 全发完从头轮换，永不停更
 - 所有发布永久归档在 `archive/YYYY-MM-DD.md`
+
+### 已知限制：schedule 可能延迟或丢失
+
+GitHub Actions 的定时触发是「尽力而为」，不保证准点，偶发延迟数小时甚至跳过（2026-08-05 实测丢失一次，8/4 延迟 2.5 小时）。已做双触发兜底，但若某天发现没更新，手动补发：
+
+```bash
+gh workflow run daily.yml --repo gengyueworks/daily-stoic
+```
+
+脚本幂等，同一天不会重复发布，手动补发安全。
 
 ---
 
