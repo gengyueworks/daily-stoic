@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 5 日
+### 📜 2026 年 8 月 6 日
 
-> "Confine yourself to the present."
+> "The impediment to action advances action. What stands in the way becomes the way."
 >
-> — Marcus Aurelius, Meditations, Book IV
+> — Marcus Aurelius, Meditations, Book V
 
-**Interpretation**：Anxious people live in the future, regretful people live in the past, and the only moment you actually own is this one. The past is gone, the future hasn't arrived. Do today's work today, and let tomorrow's troubles wait. That is not escapism, it's the whole secret of focus.
+**Interpretation**：The most rousing line in Stoicism. Ryan Holiday built an entire book on it. The obstacle is not the enemy, it's raw material. A blocked road sends you down a new street where you see things you'd have missed. A rejected plan forces a better one. Obstacles don't pick their people; what you do with them is up to you.
 
-**Today's Action**：Something you've been putting off? Do five minutes. Just five.
+**Today's Action**：Write down today's biggest problem, then write next to it what it taught you.
 
 ---
 
-**白话**：把自己圈定在当下。
+**白话**：阻碍行动的东西，恰恰推动行动。挡在你前面的，就是你的路。
 
-**解读**：焦虑的人活在明天，悔恨的人活在过去，能攥在手里的只有今天这一秒。过去没了，未来没来。今天该做的做掉，明天的烦恼明天再说。这话听着像逃避，其实是专注力唯一的秘密。我拖延的时候，就把任务切成五分钟的碎片，先动起来，动起来焦虑就散了。
+**解读**：马可这句话够我用一辈子：挡路的，就是路。堵车改走小路，反而看到没见过的风景；方案被毙，逼自己想出更好的。阻力不挑人，怎么用阻力是人挑的。Ryan Holiday 靠这句话写了一整本书《障碍即道路》。我遇到烂事的第一反应，从「为什么是我」改成「这里能榨出什么」，日子顺多了。
 
-**今日行动**：今天有一件一直拖着的事？只做五分钟，就五分钟。
+**今日行动**：把今天遇到的最大一个麻烦，写下来，然后在旁边写上它教会了你什么。
 
 <!-- DAILY-STOIC:END -->
 
