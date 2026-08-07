@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 6 日
+### 📜 2026 年 8 月 7 日
 
-> "The impediment to action advances action. What stands in the way becomes the way."
+> "The best revenge is to be unlike him who performed the injury."
 >
-> — Marcus Aurelius, Meditations, Book V
+> — Marcus Aurelius, Meditations, Book VI
 
-**Interpretation**：The most rousing line in Stoicism. Ryan Holiday built an entire book on it. The obstacle is not the enemy, it's raw material. A blocked road sends you down a new street where you see things you'd have missed. A rejected plan forces a better one. Obstacles don't pick their people; what you do with them is up to you.
+**Interpretation**：The highest form of revenge is refusing to enter their game. They cheat, you stay honest. They rage, you stay calm. They scheme, you stay straight. Ten years later you're on different tracks, and that's the win.
 
-**Today's Action**：Write down today's biggest problem, then write next to it what it taught you.
+**Today's Action**：Respond to someone annoying today in exactly the opposite way they'd expect.
 
 ---
 
-**白话**：阻碍行动的东西，恰恰推动行动。挡在你前面的，就是你的路。
+**白话**：最好的报复，是活成与伤害你的人截然不同的人。
 
-**解读**：马可这句话够我用一辈子：挡路的，就是路。堵车改走小路，反而看到没见过的风景；方案被毙，逼自己想出更好的。阻力不挑人，怎么用阻力是人挑的。Ryan Holiday 靠这句话写了一整本书《障碍即道路》。我遇到烂事的第一反应，从「为什么是我」改成「这里能榨出什么」，日子顺多了。
+**解读**：最好的报复，是活成和他完全相反的人。他造假，你诚实；他急躁，你沉稳；他算计，你坦荡。你不进他的游戏，他就永远赢不了你。十年后你们不在同一条轨道上，那才是真赢了。
 
-**今日行动**：把今天遇到的最大一个麻烦，写下来，然后在旁边写上它教会了你什么。
+**今日行动**：今天面对一个让你不爽的人，用和他完全相反的方式回应一次。
 
 <!-- DAILY-STOIC:END -->
 
