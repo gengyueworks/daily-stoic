@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 7 日
+### 📜 2026 年 8 月 8 日
 
-> "The best revenge is to be unlike him who performed the injury."
+> "The universe is change; our life is what our thoughts make it."
 >
-> — Marcus Aurelius, Meditations, Book VI
+> — Marcus Aurelius, Meditations, Book VIII
 
-**Interpretation**：The highest form of revenge is refusing to enter their game. They cheat, you stay honest. They rage, you stay calm. They scheme, you stay straight. Ten years later you're on different tracks, and that's the win.
+**Interpretation**：Everything changes, that's physics. But the same event has different versions depending on who's holding it: getting laid off is a disaster or a pivot, losing someone is an ending or a lesson. You can't change the weather, but you can decide what the weather means to you.
 
-**Today's Action**：Respond to someone annoying today in exactly the opposite way they'd expect.
+**Today's Action**：Pick one small thing that happened today and try a different interpretation. See if your mood moves.
 
 ---
 
-**白话**：最好的报复，是活成与伤害你的人截然不同的人。
+**白话**：万物皆流变，而人生，是你思想的产物。
 
-**解读**：最好的报复，是活成和他完全相反的人。他造假，你诚实；他急躁，你沉稳；他算计，你坦荡。你不进他的游戏，他就永远赢不了你。十年后你们不在同一条轨道上，那才是真赢了。
+**解读**：万物都在变，这是物理。但同一件事，在不同人手里有不同的版本：被裁员，有人当灾难，有人当转机；失恋，有人觉得结束，有人觉得上课。天气改不了，天气对你意味着什么，你说了算。
 
-**今日行动**：今天面对一个让你不爽的人，用和他完全相反的方式回应一次。
+**今日行动**：今天发生的一件小事，试着给它换一个解释，看心情会不会变。
 
 <!-- DAILY-STOIC:END -->
 
