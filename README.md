@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 8 日
+### 📜 2026 年 8 月 9 日
 
-> "The universe is change; our life is what our thoughts make it."
+> "The soul becomes dyed with the color of its thoughts."
 >
-> — Marcus Aurelius, Meditations, Book VIII
+> — Marcus Aurelius, Meditations, Book XII
 
-**Interpretation**：Everything changes, that's physics. But the same event has different versions depending on who's holding it: getting laid off is a disaster or a pivot, losing someone is an ending or a lesson. You can't change the weather, but you can decide what the weather means to you.
+**Interpretation**：Whatever you think about all day, you become. Feed on anxiety and you take the shape of anxiety. Spend your days on getting things done and you grow into someone who gets things done. Fabric soaks up dye, so soak in a color you can live with.
 
-**Today's Action**：Pick one small thing that happened today and try a different interpretation. See if your mood moves.
+**Today's Action**：Before bed, recall the one thing you thought about most today. If it's not worth it, pick a better thought for tomorrow.
 
 ---
 
-**白话**：万物皆流变，而人生，是你思想的产物。
+**白话**：灵魂会被思想的颜色染透。
 
-**解读**：万物都在变，这是物理。但同一件事，在不同人手里有不同的版本：被裁员，有人当灾难，有人当转机；失恋，有人觉得结束，有人觉得上课。天气改不了，天气对你意味着什么，你说了算。
+**解读**：你天天想什么，慢慢就长成什么。天天刷焦虑，人就变成焦虑的形状；天天琢磨怎么成事，人就长成成事的样。布在染缸里泡久了，颜色洗不掉。挑个你愿意被染的颜色，只泡那一种。
 
-**今日行动**：今天发生的一件小事，试着给它换一个解释，看心情会不会变。
+**今日行动**：睡前回想今天想得最多的一件事，如果它不值得，明天换个念头想。
 
 <!-- DAILY-STOIC:END -->
 
