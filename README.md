@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 9 日
+### 📜 2026 年 8 月 10 日
 
-> "The soul becomes dyed with the color of its thoughts."
+> "Some things are in our control and others not."
 >
-> — Marcus Aurelius, Meditations, Book XII
+> — Epictetus, Enchiridion, I
 
-**Interpretation**：Whatever you think about all day, you become. Feed on anxiety and you take the shape of anxiety. Spend your days on getting things done and you grow into someone who gets things done. Fabric soaks up dye, so soak in a color you can live with.
+**Interpretation**：The first lesson of Stoicism and the foundation of everything else. How others see you: out of your control. Whether you tried: in your control. Weather: out. Mood: in. Results: out. Effort: in. Put all your energy in the 'in' column and most of your anxiety disappears, because anxiety lives in the 'out' column.
 
-**Today's Action**：Before bed, recall the one thing you thought about most today. If it's not worth it, pick a better thought for tomorrow.
+**Today's Action**：Write down one worry for today, split into 'in my control' and 'not in my control.' Only act on the first column.
 
 ---
 
-**白话**：灵魂会被思想的颜色染透。
+**白话**：有些事在我们掌控之中，有些事不在。
 
-**解读**：你天天想什么，慢慢就长成什么。天天刷焦虑，人就变成焦虑的形状；天天琢磨怎么成事，人就长成成事的样。布在染缸里泡久了，颜色洗不掉。挑个你愿意被染的颜色，只泡那一种。
+**解读**：别人怎么看你，你管不着；你有没有努力，你说了算。天气管不着，心情能管；结果管不着，过程能管。把劲全使在「可控」那一栏，焦虑能少一大半，因为焦虑全住在「不可控」那一栏。
 
-**今日行动**：睡前回想今天想得最多的一件事，如果它不值得，明天换个念头想。
+**今日行动**：把今天的一个烦恼写下来，左边是可控的，右边是不可控的，只处理左边。
 
 <!-- DAILY-STOIC:END -->
 
