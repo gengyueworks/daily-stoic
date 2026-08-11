@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 10 日
+### 📜 2026 年 8 月 11 日
 
-> "Some things are in our control and others not."
+> "Men are disturbed not by things, but by the views which they take of things."
 >
-> — Epictetus, Enchiridion, I
+> — Epictetus, Enchiridion, V
 
-**Interpretation**：The first lesson of Stoicism and the foundation of everything else. How others see you: out of your control. Whether you tried: in your control. Weather: out. Mood: in. Results: out. Effort: in. Put all your energy in the 'in' column and most of your anxiety disappears, because anxiety lives in the 'out' column.
+**Interpretation**：Events are neutral: rejection, criticism, failure, rain. What hurts is the label you stick on them: 'I'm done for,' 'they look down on me.' You stuck the label, so you can peel it off. Next time you feel bad, ask whether it's the event or your view of it.
 
-**Today's Action**：Write down one worry for today, split into 'in my control' and 'not in my control.' Only act on the first column.
+**Today's Action**：Next time something goes wrong, write the event and your view of it separately. Notice the gap.
 
 ---
 
-**白话**：有些事在我们掌控之中，有些事不在。
+**白话**：困扰人的从来不是事情本身，是人怎么看待这件事。
 
-**解读**：别人怎么看你，你管不着；你有没有努力，你说了算。天气管不着，心情能管；结果管不着，过程能管。把劲全使在「可控」那一栏，焦虑能少一大半，因为焦虑全住在「不可控」那一栏。
+**解读**：事情是中性的。被拒绝、被批评、失败、下雨，都不带情绪。让你难受的是你自己贴的标签：「我完了」「他看不起我」。标签是你贴的，就能撕。下次心里堵，先问一句：是事情让我堵，还是我的看法让我堵。
 
-**今日行动**：把今天的一个烦恼写下来，左边是可控的，右边是不可控的，只处理左边。
+**今日行动**：今天遇到不顺，把「事情」和「我对事情的看法」分开写出来，你会看见差别。
 
 <!-- DAILY-STOIC:END -->
 
