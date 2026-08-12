@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 11 日
+### 📜 2026 年 8 月 12 日
 
-> "Men are disturbed not by things, but by the views which they take of things."
+> "Remember that you are an actor in a play, the nature of which is determined by the author."
 >
-> — Epictetus, Enchiridion, V
+> — Epictetus, Enchiridion, X
 
-**Interpretation**：Events are neutral: rejection, criticism, failure, rain. What hurts is the label you stick on them: 'I'm done for,' 'they look down on me.' You stuck the label, so you can peel it off. Next time you feel bad, ask whether it's the event or your view of it.
+**Interpretation**：You are an actor in a play and the playwright decides the genre. Someone hands you the rich role, someone else the poor role, someone the sick role. Your job is to play your part well. It sounds fatalistic, but it's really about spending your energy where it counts.
 
-**Today's Action**：Next time something goes wrong, write the event and your view of it separately. Notice the gap.
+**Today's Action**：Before anything today, ask: if this is my assigned scene, how would I play it well?
 
 ---
 
-**白话**：困扰人的从来不是事情本身，是人怎么看待这件事。
+**白话**：记住，你是一部戏剧里的演员，戏的性质由剧作家决定。
 
-**解读**：事情是中性的。被拒绝、被批评、失败、下雨，都不带情绪。让你难受的是你自己贴的标签：「我完了」「他看不起我」。标签是你贴的，就能撕。下次心里堵，先问一句：是事情让我堵，还是我的看法让我堵。
+**解读**：你就是台上一个演员，剧本是导演定的。有人拿富人的剧本，有人拿穷人的，有人拿病人的。你改不了剧本，但能把分给你的角色演到最好。这话听着宿命，其实是把力气用在刀刃上。
 
-**今日行动**：今天遇到不顺，把「事情」和「我对事情的看法」分开写出来，你会看见差别。
+**今日行动**：今天做任何事之前，先想一遍：「如果这是剧本安排的戏份，我要怎么把它演好。」
 
 <!-- DAILY-STOIC:END -->
 
