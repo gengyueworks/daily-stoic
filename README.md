@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 12 日
+### 📜 2026 年 8 月 13 日
 
-> "Remember that you are an actor in a play, the nature of which is determined by the author."
+> "If you want to improve, be content to be thought foolish and stupid."
 >
-> — Epictetus, Enchiridion, X
+> — Epictetus, Enchiridion, XIII
 
-**Interpretation**：You are an actor in a play and the playwright decides the genre. Someone hands you the rich role, someone else the poor role, someone the sick role. Your job is to play your part well. It sounds fatalistic, but it's really about spending your energy where it counts.
+**Interpretation**：Learning anything new has a price: looking like an idiot for a while. Adults learning English, changing careers, starting a channel, everyone goes through the 'getting laughed at' phase. Epictetus puts it plainly: that's the ticket, and no ticket means no entry. Pride is the biggest tax on progress.
 
-**Today's Action**：Before anything today, ask: if this is my assigned scene, how would I play it well?
+**Today's Action**：Do one thing today that might make you look slow or dumb but helps you, like asking a basic question.
 
 ---
 
-**白话**：记住，你是一部戏剧里的演员，戏的性质由剧作家决定。
+**白话**：如果你想进步，就要甘愿被人当成傻瓜。
 
-**解读**：你就是台上一个演员，剧本是导演定的。有人拿富人的剧本，有人拿穷人的，有人拿病人的。你改不了剧本，但能把分给你的角色演到最好。这话听着宿命，其实是把力气用在刀刃上。
+**解读**：学新东西的代价，是当一段时间傻子。学英语、转行、做账号，都躲不过「被人笑话」那一关。爱比克泰德说得直白：这是门票，不买票进不了门。面子是进步最贵的一项税。
 
-**今日行动**：今天做任何事之前，先想一遍：「如果这是剧本安排的戏份，我要怎么把它演好。」
+**今日行动**：今天做一件「可能显得很笨」但有益的事，比如问一个基础问题。
 
 <!-- DAILY-STOIC:END -->
 
