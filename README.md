@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 13 日
+### 📜 2026 年 8 月 14 日
 
-> "If you want to improve, be content to be thought foolish and stupid."
+> "No great thing is created suddenly, any more than a bunch of grapes or a fig."
 >
-> — Epictetus, Enchiridion, XIII
+> — Epictetus, Discourses, Book I
 
-**Interpretation**：Learning anything new has a price: looking like an idiot for a while. Adults learning English, changing careers, starting a channel, everyone goes through the 'getting laughed at' phase. Epictetus puts it plainly: that's the ticket, and no ticket means no entry. Pride is the biggest tax on progress.
+**Interpretation**：You can't rush a fig to ripen overnight, and you can't rush a skill either. But the fig isn't worried. It grows by season and blooms when it blooms. Take the fig as the model: do the season's work, and the fruit comes, just not on your schedule.
 
-**Today's Action**：Do one thing today that might make you look slow or dumb but helps you, like asking a basic question.
+**Today's Action**：Pick one thing you're building and write down which stage it's at. Acknowledge it needs time.
 
 ---
 
-**白话**：如果你想进步，就要甘愿被人当成傻瓜。
+**白话**：没有伟大的事物是突然长成的，葡萄和无花果也做不到。
 
-**解读**：学新东西的代价，是当一段时间傻子。学英语、转行、做账号，都躲不过「被人笑话」那一关。爱比克泰德说得直白：这是门票，不买票进不了门。面子是进步最贵的一项税。
+**解读**：无花果不是一夜长成的，技能也不是。但无花果不急，它按季节长，该开花开花，该结果结果。焦虑是这个时代最贵的税。按时令做事，果实会来，只是不一定在你想的那天。
 
-**今日行动**：今天做一件「可能显得很笨」但有益的事，比如问一个基础问题。
+**今日行动**：选一个正在积累的事情，写下它已经走到的阶段，承认「它需要时间」。
 
 <!-- DAILY-STOIC:END -->
 
