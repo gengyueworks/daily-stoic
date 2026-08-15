@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 14 日
+### 📜 2026 年 8 月 15 日
 
-> "No great thing is created suddenly, any more than a bunch of grapes or a fig."
+> "It is not that we have a short time to live, but that we waste a lot of it."
 >
-> — Epictetus, Discourses, Book I
+> — Seneca, On the Shortness of Life
 
-**Interpretation**：You can't rush a fig to ripen overnight, and you can't rush a skill either. But the fig isn't worried. It grows by season and blooms when it blooms. Take the fig as the model: do the season's work, and the fruit comes, just not on your schedule.
+**Interpretation**：Life is not short, we just waste a lot of it: dinners, comparisons, flattery, scrolling. Seneca offers a brutal arithmetic. Write down your day and you'll see how little of it was actually lived. Time is not stolen, we hand it over ourselves.
 
-**Today's Action**：Pick one thing you're building and write down which stage it's at. Acknowledge it needs time.
+**Today's Action**：Tonight, open your screen-time report and see how many hours went to things that don't matter.
 
 ---
 
-**白话**：没有伟大的事物是突然长成的，葡萄和无花果也做不到。
+**白话**：不是我们活的时间短，是我们浪费了太多。
 
-**解读**：无花果不是一夜长成的，技能也不是。但无花果不急，它按季节长，该开花开花，该结果结果。焦虑是这个时代最贵的税。按时令做事，果实会来，只是不一定在你想的那天。
+**解读**：活得太短是假的，浪费得太多是真的。应酬、攀比、讨好、刷手机，一天就这么没了。塞涅卡给了个残酷算法：把每天的时间记下来，你会发现自己真正活的时间少得可怜。时间不是被偷的，是你亲手递出去的。
 
-**今日行动**：选一个正在积累的事情，写下它已经走到的阶段，承认「它需要时间」。
+**今日行动**：今晚打开手机屏幕时间，看看今天有多少小时花在了没意义的事情上。
 
 <!-- DAILY-STOIC:END -->
 
