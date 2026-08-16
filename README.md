@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 15 日
+### 📜 2026 年 8 月 16 日
 
-> "It is not that we have a short time to live, but that we waste a lot of it."
+> "Everywhere means nowhere."
 >
-> — Seneca, On the Shortness of Life
+> — Seneca, Letters to Lucilius, Letter II
 
-**Interpretation**：Life is not short, we just waste a lot of it: dinners, comparisons, flattery, scrolling. Seneca offers a brutal arithmetic. Write down your day and you'll see how little of it was actually lived. Time is not stolen, we hand it over ourselves.
+**Interpretation**：Seneca's jab at people who read everything: a book here, two pages there, it looks like a lot of reading and nothing enters the brain. 'Everywhere' means 'nowhere.' Reading ten books deeply beats skimming a hundred. A bookmark folder full of saved articles is the modern Stoic trap.
 
-**Today's Action**：Tonight, open your screen-time report and see how many hours went to things that don't matter.
+**Today's Action**：Pick one book from your list. Read only that one for the next week.
 
 ---
 
-**白话**：不是我们活的时间短，是我们浪费了太多。
+**白话**：哪儿都去，等于哪儿也没去。
 
-**解读**：活得太短是假的，浪费得太多是真的。应酬、攀比、讨好、刷手机，一天就这么没了。塞涅卡给了个残酷算法：把每天的时间记下来，你会发现自己真正活的时间少得可怜。时间不是被偷的，是你亲手递出去的。
+**解读**：塞涅卡骂收藏书单的人：这本翻两页，那本看三行，看着读了不少，脑子一点没进。他的原话：「哪儿都去，等于哪儿也没去。」深读十本好书，胜过扫过一百本。收藏夹吃灰，是当代人最大的斯多葛陷阱。
 
-**今日行动**：今晚打开手机屏幕时间，看看今天有多少小时花在了没意义的事情上。
+**今日行动**：从你的书单里挑一本，未来一周只读它，读完再开下一本。
 
 <!-- DAILY-STOIC:END -->
 
