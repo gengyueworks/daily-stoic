@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 16 日
+### 📜 2026 年 8 月 17 日
 
-> "Everywhere means nowhere."
+> "You ask why your flight does not help you; because you flee with yourself."
 >
-> — Seneca, Letters to Lucilius, Letter II
+> — Seneca, Letters to Lucilius, Letter XXVIII
 
-**Interpretation**：Seneca's jab at people who read everything: a book here, two pages there, it looks like a lot of reading and nothing enters the brain. 'Everywhere' means 'nowhere.' Reading ten books deeply beats skimming a hundred. A bookmark folder full of saved articles is the modern Stoic trap.
+**Interpretation**：Seneca scolds a friend who keeps moving cities to escape anxiety: it doesn't work, because you bring yourself along. New city, same mind. Plenty of people think a new place, a new job, a new person will fix things, when the thing that needs replacing is the pattern in your head. Places don't heal, you do.
 
-**Today's Action**：Pick one book from your list. Read only that one for the next week.
+**Today's Action**：If today you thought 'a fresh start will fix everything,' stop and write down the real problem.
 
 ---
 
-**白话**：哪儿都去，等于哪儿也没去。
+**白话**：你问为什么逃跑帮不了你？因为你逃跑的时候，把你自己也带上了。
 
-**解读**：塞涅卡骂收藏书单的人：这本翻两页，那本看三行，看着读了不少，脑子一点没进。他的原话：「哪儿都去，等于哪儿也没去。」深读十本好书，胜过扫过一百本。收藏夹吃灰，是当代人最大的斯多葛陷阱。
+**解读**：塞涅卡骂过一个靠换城市治焦虑的朋友：搬家没用，因为行李里装着你自己。换个城市，脑子还是那颗脑子。换城市、换工作、换人，都治不了根，要换的是脑子里的那套反应模式。地方治不了病，自己才能治自己。
 
-**今日行动**：从你的书单里挑一本，未来一周只读它，读完再开下一本。
+**今日行动**：如果今天你想「换个环境解决一切」，先停下来，写下真正的问题是什么。
 
 <!-- DAILY-STOIC:END -->
 
