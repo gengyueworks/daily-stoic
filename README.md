@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 17 日
+### 📜 2026 年 8 月 18 日
 
-> "You ask why your flight does not help you; because you flee with yourself."
+> "The greatest remedy for anger is delay."
 >
-> — Seneca, Letters to Lucilius, Letter XXVIII
+> — Seneca, On Anger
 
-**Interpretation**：Seneca scolds a friend who keeps moving cities to escape anxiety: it doesn't work, because you bring yourself along. New city, same mind. Plenty of people think a new place, a new job, a new person will fix things, when the thing that needs replacing is the pattern in your head. Places don't heal, you do.
+**Interpretation**：Anger is the one fuel that grows as it burns, and it only turns into action if you give it time. Seneca's method is physical: when angry, don't speak, don't message, don't decide. Nine out of ten things done in anger get regretted, nine out of ten things said in anger get apologized for. Wait, and you win.
 
-**Today's Action**：If today you thought 'a fresh start will fix everything,' stop and write down the real problem.
+**Today's Action**：Next time anger rises, leave the room or stay silent for a minute before speaking.
 
 ---
 
-**白话**：你问为什么逃跑帮不了你？因为你逃跑的时候，把你自己也带上了。
+**白话**：愤怒最好的解药，是拖延。
 
-**解读**：塞涅卡骂过一个靠换城市治焦虑的朋友：搬家没用，因为行李里装着你自己。换个城市，脑子还是那颗脑子。换城市、换工作、换人，都治不了根，要换的是脑子里的那套反应模式。地方治不了病，自己才能治自己。
+**解读**：愤怒是唯一越烧越旺的东西，你不给它时间，它就不会变成动作。塞涅卡的方子很物理：生气的时候，别说话、别发消息、别做决定。气头上做的事九成后悔，气头上说的话九成道歉。拖一分钟，就赢了。
 
-**今日行动**：如果今天你想「换个环境解决一切」，先停下来，写下真正的问题是什么。
+**今日行动**：今天想发火时，先离开现场或沉默一分钟，再开口。
 
 <!-- DAILY-STOIC:END -->
 
