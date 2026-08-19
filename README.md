@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 18 日
+### 📜 2026 年 8 月 19 日
 
-> "The greatest remedy for anger is delay."
+> "Lead me, O Zeus, and thou, O Destiny, wherever you have appointed me to go; I will follow without hesitation."
 >
-> — Seneca, On Anger
+> — Seneca, quoting Cleanthes, Letters to Lucilius, Letter CVII
 
-**Interpretation**：Anger is the one fuel that grows as it burns, and it only turns into action if you give it time. Seneca's method is physical: when angry, don't speak, don't message, don't decide. Nine out of ten things done in anger get regretted, nine out of ten things said in anger get apologized for. Wait, and you win.
+**Interpretation**：The most complete expression of acceptance in Stoicism: you keep up willingly. Treat fate as a coach, not an opponent. When something unwanted arrives, treat it as part of the script and play it well. Stoics are never passive, they just move their energy from resisting to responding.
 
-**Today's Action**：Next time anger rises, leave the room or stay silent for a minute before speaking.
+**Today's Action**：Today, something you don't want to do but must: say 'okay' to it, then do it completely.
 
 ---
 
-**白话**：愤怒最好的解药，是拖延。
+**白话**：宙斯啊，命运啊，带我去你们为我指定的地方吧，我会毫不犹豫地跟上。
 
-**解读**：愤怒是唯一越烧越旺的东西，你不给它时间，它就不会变成动作。塞涅卡的方子很物理：生气的时候，别说话、别发消息、别做决定。气头上做的事九成后悔，气头上说的话九成道歉。拖一分钟，就赢了。
+**解读**：斯多葛对「接受」最彻底的一句：不是认命，是主动跟上。把命运当教练，不当对手。该来的事来了，就当成剧本的一部分，认真演。斯多葛从来不消极，他们只是把「抗拒」的力气，全换成「应对」。
 
-**今日行动**：今天想发火时，先离开现场或沉默一分钟，再开口。
+**今日行动**：今天遇到一件不情愿但必须做的事，试着对它说「好」，然后全力做完。
 
 <!-- DAILY-STOIC:END -->
 
