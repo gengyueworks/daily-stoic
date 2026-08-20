@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 19 日
+### 📜 2026 年 8 月 20 日
 
-> "Lead me, O Zeus, and thou, O Destiny, wherever you have appointed me to go; I will follow without hesitation."
+> "Man conquers the world by conquering himself."
 >
-> — Seneca, quoting Cleanthes, Letters to Lucilius, Letter CVII
+> — Zeno of Citium, attributed
 
-**Interpretation**：The most complete expression of acceptance in Stoicism: you keep up willingly. Treat fate as a coach, not an opponent. When something unwanted arrives, treat it as part of the script and play it well. Stoics are never passive, they just move their energy from resisting to responding.
+**Interpretation**：Zeno left few words, but this one is a lifetime's worth. You can't control your emotions, your time, or your appetite, yet you want to control the outer world. That's the wrong order. Get yourself sorted and the world is a byproduct. Self-mastery is the only arms race Stoicism recommends.
 
-**Today's Action**：Today, something you don't want to do but must: say 'okay' to it, then do it completely.
+**Today's Action**：Log one 'loss of control' today: what triggered it, and how to intercept it next time.
 
 ---
 
-**白话**：宙斯啊，命运啊，带我去你们为我指定的地方吧，我会毫不犹豫地跟上。
+**白话**：人征服世界的方式，是先征服自己。
 
-**解读**：斯多葛对「接受」最彻底的一句：不是认命，是主动跟上。把命运当教练，不当对手。该来的事来了，就当成剧本的一部分，认真演。斯多葛从来不消极，他们只是把「抗拒」的力气，全换成「应对」。
+**解读**：芝诺话不多，这一句够用一辈子。情绪管不住、时间管不住、欲望管不住，却想管住外面的世界，顺序反了。先把自己管明白，世界是副产品。管自己，是斯多葛唯一推荐的军备竞赛。
 
-**今日行动**：今天遇到一件不情愿但必须做的事，试着对它说「好」，然后全力做完。
+**今日行动**：今天记录一次「失控瞬间」：因为什么失控，下次怎么提前拦截。
 
 <!-- DAILY-STOIC:END -->
 
