@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 20 日
+### 📜 2026 年 8 月 21 日
 
-> "Man conquers the world by conquering himself."
+> "A holy spirit dwells within us, one who marks our good and bad deeds, and is our guardian."
 >
-> — Zeno of Citium, attributed
+> — Seneca, Letters to Lucilius, Letter XLI
 
-**Interpretation**：Zeno left few words, but this one is a lifetime's worth. You can't control your emotions, your time, or your appetite, yet you want to control the outer world. That's the wrong order. Get yourself sorted and the world is a byproduct. Self-mastery is the only arms race Stoicism recommends.
+**Interpretation**：No need to search the temples, the best god lives inside you: your conscience. It watches when no one else does. This is as current as ever. Discipline is not an external camera, it's an internal standard. You can fool everyone else, you can't fool this lodger.
 
-**Today's Action**：Log one 'loss of control' today: what triggered it, and how to intercept it next time.
+**Today's Action**：Before bed, ask: how does the guardian inside me feel about what I did today?
 
 ---
 
-**白话**：人征服世界的方式，是先征服自己。
+**白话**：我们心中住着一位神圣的守护者，他记着我们的善恶，看守着我们。
 
-**解读**：芝诺话不多，这一句够用一辈子。情绪管不住、时间管不住、欲望管不住，却想管住外面的世界，顺序反了。先把自己管明白，世界是副产品。管自己，是斯多葛唯一推荐的军备竞赛。
+**解读**：不用去庙里找神，最好的神住在你自己心里，就是你的良知。没人看见的时候，它看着你。自律不是靠外面的摄像头，是靠心里那把尺。你糊弄得了所有人，糊弄不了心里这位房客。
 
-**今日行动**：今天记录一次「失控瞬间」：因为什么失控，下次怎么提前拦截。
+**今日行动**：今晚睡前问自己一句：今天做的那件事，心里那位守护者怎么看？
 
 <!-- DAILY-STOIC:END -->
 
