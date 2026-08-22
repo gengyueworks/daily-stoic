@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 21 日
+### 📜 2026 年 8 月 22 日
 
-> "A holy spirit dwells within us, one who marks our good and bad deeds, and is our guardian."
+> "The mind adapts and converts to its own purposes the obstacle to our acting."
 >
-> — Seneca, Letters to Lucilius, Letter XLI
+> — Marcus Aurelius, Meditations, Book VII
 
-**Interpretation**：No need to search the temples, the best god lives inside you: your conscience. It watches when no one else does. This is as current as ever. Discipline is not an external camera, it's an internal standard. You can fool everyone else, you can't fool this lodger.
+**Interpretation**：Marcus loves the fire metaphor: fire burns whatever you throw in, throw in straw and the flame grows. Obstacles don't block you, they feed you. Rejection teaches you to speak better, procrastination builds your skill at breaking tasks down. The mind is an alchemist: everything can be refined into fuel.
 
-**Today's Action**：Before bed, ask: how does the guardian inside me feel about what I did today?
+**Today's Action**：Treat one 'bad thing' today as fuel: what did it build in you, even if only patience?
 
 ---
 
-**白话**：我们心中住着一位神圣的守护者，他记着我们的善恶，看守着我们。
+**白话**：心灵会把阻碍行动的东西，改造成自己使用的工具。
 
-**解读**：不用去庙里找神，最好的神住在你自己心里，就是你的良知。没人看见的时候，它看着你。自律不是靠外面的摄像头，是靠心里那把尺。你糊弄得了所有人，糊弄不了心里这位房客。
+**解读**：马可爱用火的比喻：火遇到什么烧什么，扔进稻草，火反而更大。障碍不是来拦你的，是来喂你的。被拒绝，练出了更好的表达；被拖延折磨，练出了拆任务的能力。脑子是炼金炉，什么都能炼成燃料。
 
-**今日行动**：今晚睡前问自己一句：今天做的那件事，心里那位守护者怎么看？
+**今日行动**：今天把一件「坏事」当成燃料：它让你练出了什么，哪怕只是耐性？
 
 <!-- DAILY-STOIC:END -->
 
