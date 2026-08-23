@@ -12,23 +12,23 @@
 
 <!-- DAILY-STOIC:BEGIN -->
 
-### 📜 2026 年 8 月 22 日
+### 📜 2026 年 8 月 23 日
 
-> "The mind adapts and converts to its own purposes the obstacle to our acting."
+> "I never return home with the same moral character I departed; something or other is unsettled which I had before settled, something or other I have either relaxed or destroyed in the midst of the crowd."
 >
-> — Marcus Aurelius, Meditations, Book VII
+> — Seneca, Letters to Lucilius, Letter VII
 
-**Interpretation**：Marcus loves the fire metaphor: fire burns whatever you throw in, throw in straw and the flame grows. Obstacles don't block you, they feed you. Rejection teaches you to speak better, procrastination builds your skill at breaking tasks down. The mind is an alchemist: everything can be refined into fuel.
+**Interpretation**：He's not telling us to become hermits. The point is awareness: notice what shapes you when you're around people. Crowds have a hypnotic pull, and collective emotion overrides individual judgment. You walk into a frenzy, a fight, a trending topic, and walk out no longer yourself. The Stoic fix is to guard your autonomy as a rational being: sync up when it makes sense, but keep your own anchor.
 
-**Today's Action**：Treat one 'bad thing' today as fuel: what did it build in you, even if only patience?
+**Today's Action**：Today, watch one 'follow-the-crowd' moment: when others' emotions rise, pause three seconds and ask: is this the reaction I want?
 
 ---
 
-**白话**：心灵会把阻碍行动的东西，改造成自己使用的工具。
+**白话**：我每次从人群回来，都不再是出发时的那个我。那些原本已经安顿好的心念，总会在人群里被动摇、被消解、被摧毁。
 
-**解读**：马可爱用火的比喻：火遇到什么烧什么，扔进稻草，火反而更大。障碍不是来拦你的，是来喂你的。被拒绝，练出了更好的表达；被拖延折磨，练出了拆任务的能力。脑子是炼金炉，什么都能炼成燃料。
+**解读**：他说「避开人群」，是要我们警惕自己正在被什么影响，不是让我们从此当隐士、不见人。群体有催眠的力量，集体的情绪会接管个人的判断。你走进一场狂欢、一次争吵、一个热搜，出来时你已经不是自己。斯多葛的解药，是守住理性人的自主权：该同频时同频，心里始终有一个自己的锚点。
 
-**今日行动**：今天把一件「坏事」当成燃料：它让你练出了什么，哪怕只是耐性？
+**今日行动**：今天留意一件「随大流」的小事：别人的情绪起来时，先停三秒，问自己「这是我想要的反应吗」。
 
 <!-- DAILY-STOIC:END -->
 
