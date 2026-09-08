@@ -46,14 +46,17 @@ def pick_today(quotes, today):
     if released:
         return released[0], False
 
-    pool = [q for q in quotes if not q.get("date_published")]
-    if not pool:
-        pool = quotes
-
-    reviewed = [q for q in pool if q.get("status") == "reviewed"]
-    draft = [q for q in pool if q.get("status") != "reviewed"]
-    chosen = reviewed[0] if reviewed else draft[0]
-    return chosen, True
+    unreleased = [q for q in quotes if not q.get("date_published")]
+    if unreleased:
+        reviewed = [q for q in unreleased if q.get("status") == "reviewed"]
+        draft = [q for q in unreleased if q.get("status") != "reviewed"]
+        chosen = reviewed[0] if reviewed else draft[0]
+        return chosen, True
+    else:
+        # 全部发完，按最久未发布（date_published 最早）排序轮换
+        sorted_quotes = sorted(quotes, key=lambda q: q.get("date_published", ""))
+        chosen = sorted_quotes[0]
+        return chosen, True
 
 
 def render_card(quote, today):
@@ -95,8 +98,6 @@ def update_readme(card):
 def write_archive(quote, today):
     ARCHIVE_DIR.mkdir(exist_ok=True)
     path = ARCHIVE_DIR / f"{today}.md"
-    if path.exists():
-        return
     content = f"""# 每日斯多葛 {today}
 
 {render_card(quote, today)}
